@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hi, I’m Ioanna Floraki  
 
-<!--
-**jovannaflor/jovannaflor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a final-year MEng student at the Department of Biomedical Engineering at the University of West Attica (UniWA), based in Athens, Greece. I’m passionate about applying **machine learning techniques** to understand the human brain. Currently, I’m researching **fNIRS signal detection** in individuals with *Mild Cognitive Impairment (MCI)* and developing my thesis on **EEG signal classification** in response to auditory stimuli. I enjoy building AI-powered biomedical tools and experimenting with data-driven neuroscience applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Technical Skills  
+
+| Domain | Tools & Languages |
+|--------|-------------------|
+| Programming | Python, MATLAB, SQL |
+| Machine Learning & Deep Learning | TensorFlow, Scikit-learn |
+| Data Handling | Pandas, NumPy |
+| Web & Automation | BeautifulSoup, Selenium |
+| Dev Tools | GitHub, Docker |
+| Biomedical | EEG, fNIRS, Image & Signal Processing |
+
+---
+
+## 🏆 Achievements  
+
+### 🥇 **1st Place – Artificial Intelligence with MATLAB (2025)**  
+Developed the [TennisShotClassifier](https://devpost.com/software/tennisshortclassifier), a fitness tracker that classifies tennis shot types from smartphone sensor data using a Multi-Layer Perceptron model.  
+
+### 🥈 **2nd Place – NASA Space Apps Challenge (2025)**  
+Created [StellarFold](https://www.spaceappschallenge.org/2025/find-a-team/loonatics/?tab=project), a machine learning model operating on **Symmetric Positive Definite (SPD)** manifolds to detect candidate stars that may host previously undetected exoplanets.  
+
+---
+
+## 💼 Volunteering Experience  
+
+### 🧩 **Head of Biomedical Scientific Group — IEEE Student Branch of UniWA (September 2024 - June 2025)**  
+- Organized and presented a workshop on *Machine Learning, Data Science, and LLMs*  
+- Supervised projects involving *computer vision for eye tracking* and *Docker/GitHub fundamentals*  
+
+### 🧠 **Selected Projects**
+- **MRI Assistant** — Fine-tuned a *Llama 3* model for MRI protocol guidance using a custom Q&A dataset  
+- **UniWA Notifier** — Created a Discord bot that scrapes the university's websites for announcements and daily meals  
+- **UniWA Parking** — YOLO-based web tool estimating parking availability from live camera feeds using a Raspberry Pi  
+
+---
+
+## 🎓 Certifications  
+- 🧮 *Linear Algebra with MATLAB* — MathWorks (2025)  
+- 🧠 *Fundamentals of Deep Learning* — NVIDIA (2025)  
+- 🤖 *Deep Learning Onramp* — MathWorks (2025)
+- 🤖 *Machine Learning Onramp* — MathWorks (2025)  
+- 🐍 *Object-Oriented Programming with Python* — IEEE UniWA (2024)
+
+---
+
+## 🌐 Connect With Me  
+
+📧 **Email:** [bme21388091@uniwa.gr](mailto:bme21388091@uniwa.gr)  
+🔗 **LinkedIn:** [ioanna-floraki](https://www.linkedin.com/in/ioanna-floraki)  
