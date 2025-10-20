@@ -22,7 +22,7 @@ I'm a final-year MEng student at the Department of Biomedical Engineering at the
 ### 🥇 **1st Place – Artificial Intelligence with MATLAB (2025) - 6-hour Hackathon**  
 Developed the [TennisShotClassifier](https://devpost.com/software/tennisshortclassifier), a fitness tracker that classifies tennis shot types from smartphone sensor data using a Multi-Layer Perceptron model.  
 
-### 🥇 **1st place – "Precision Livestock Monitoring with AI and IoT Tools" (2025) - 6-hour Hackathon**
+### 🥇 **1st Place – "Precision Livestock Monitoring with AI and IoT Tools" (2025) - 6-hour Hackathon**
 Developed PROVISP, an intelligent livestock tracking system & web app using data from IoT collars, GPS & meteorological data to implement machine learning algorithms and monitor animal health and behavior in real time. It visualizes activity on an interactive farm map with automated alerts and epidemiological modeling to trace contacts and predict disease spread. It also features an integrated LLM assistant to help shepherds and other users summarize and interpret the database more easily.
 
 ### 🥈 **2nd Place – NASA Space Apps Challenge (2025) - 48-hour Hackathon**
