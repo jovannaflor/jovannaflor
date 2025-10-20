@@ -45,7 +45,8 @@ Created [StellarFold](https://www.spaceappschallenge.org/2025/find-a-team/loonat
 
 ## 🎓 Certifications  
 - 🧮 *Linear Algebra with MATLAB* — MathWorks (2025)  
-- 🧠 *Fundamentals of Deep Learning* — NVIDIA (2025)  
+- 🧠 *Fundamentals of Deep Learning* — NVIDIA (2025)
+- 🤖 *Signal Classification with Deep Learning* — MathWorks (2025)
 - 🤖 *Deep Learning Onramp* — MathWorks (2025)
 - 🤖 *Machine Learning Onramp* — MathWorks (2025)  
 - 🐍 *Object-Oriented Programming with Python* — IEEE UniWA (2024)
